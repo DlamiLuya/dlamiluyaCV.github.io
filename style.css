@@ -1,0 +1,37 @@
+img{
+    border-radius: 100%;
+    border-style: groove;
+    border-color: black;
+}
+
+img:hover{
+    transform: scale(1.10);
+    transition: 0.3s;
+}
+
+a{
+    color: aliceblue;
+}
+
+
+#top{
+    border-style: solid;
+    border-color:aliceblue;
+    background-color: rgb(34, 20, 31);
+    border-bottom-right-radius: 25%;
+    border-bottom-left-radius: 25%;
+}
+
+#side{
+    border-top-right-radius: 25%;
+    background-color: darkgrey;
+    border-style: solid;
+}
+
+#side:hover{
+    transform: scale(1.15);
+    transition: 1s;
+    margin-left: 10%;
+}
+
+
