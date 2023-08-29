@@ -34,4 +34,8 @@ a{
     margin-left: 10%;
 }
 
+#body_column{
+    border-style:groove ;
+    border-color: black;
+}
 
